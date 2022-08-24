@@ -47,6 +47,7 @@
 .modal-body {
     height: 400px;
     overflow: scroll;
+    overflow-x: hidden;
 }
 
 body {
